@@ -1,7 +1,6 @@
-# Brain-Computer-Interface (WIP)
-MATLAB toolbox's for Brain-Computer Interfacing (BCI) 
+# MATLAB: Brain-Computer-Interface Software (WIP)
+A toolbox for Brain-Computer Interfacing (BCI) 
 
-"It's like a FitBit for your Brain!" -jMitchell 
+"It's like a FitBit for your Brain!" 
 
-# Python Brain-Computer Interface Software
 
